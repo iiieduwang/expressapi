@@ -5,7 +5,7 @@
 範例安裝<br>
 <ul>
  <li>clone 或 download 這個專案</li>
- <li>請先將Northwind.sql匯入到Northwind資料中</li>
+ <li>在MySQL中建立Northwind資料庫，將Northwind.sql匯入到Northwind資料庫中</li>
  <li>執行 npm install 或 yarn install 安裝相關套件</li>
  <li>使用Visual Studio Code開啟專案</li>
  <li>開啟routes/products.js</li>
