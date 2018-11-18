@@ -16,7 +16,7 @@
 執行方式<br>
 http://localhost:3000/api/products/ 會讀出所有產品資料<br>
 http://localhost:3000/api/products/[page]<br>
-http://localhost:3000/api/products/1 1表示第一頁，回讀出1-10筆資料<br>
-http://localhost:3000/api/products/2 2表示第二頁，回讀出11-20筆資料<br>
+http://localhost:3000/api/products/1 1表示第一頁，會讀出1-10筆資料<br>
+http://localhost:3000/api/products/2 2表示第二頁，會讀出11-20筆資料<br>
 http://localhost:3000/api/products/3  <br>
 http://localhost:3000/api/products/4  <br>
